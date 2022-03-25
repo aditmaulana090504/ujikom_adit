@@ -1,0 +1,23 @@
+body {
+  min-height: 2000px;
+}
+.btn {
+  background-color:#5000ca ;
+}
+.a {
+font-size :30px;
+padding-top :5rem;
+}
+jumbotron {
+  padding-top :4rem;
+  background-color: #f3f4f5 ;
+ }
+.nav-link :hover {
+  color:#6702ff;
+}
+#project {
+  background-color: #f3f4f5;
+}
+section {
+  padding-top: 5rem;
+}
